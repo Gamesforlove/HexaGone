@@ -1,9 +1,9 @@
 const cacheName = "BVM-HexaGone-0.0.1";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-    "Build/f142bd8e12e78f279053b32d94264fc7.framework.js.br",
-    "Build/e9665e3a96ad3a2be088b5a731459aca.data.br",
-    "Build/95a8a72c83003a1ecce42eadfb3fc3ac.wasm.br",
+    "Build/806b70bcf01171204dfdf74ffd166ab6.framework.js",
+    "Build/93ce35bbbca47f88edd591bd6058414a.data",
+    "Build/e4bb339644159878ddde7c39e2b81f3b.wasm",
     "TemplateData/style.css"
 
 ];
